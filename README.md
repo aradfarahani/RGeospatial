@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/779843311.svg)](https://zenodo.org/doi/10.5281/zenodo.12989470)
 # RGeospatial
 
 ## Description
