@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/aradfarahani/rgeospatial/badge)](https://www.codefactor.io/repository/github/aradfarahani/rgeospatial)
 [![DOI](https://zenodo.org/badge/779843311.svg)](https://zenodo.org/doi/10.5281/zenodo.12989470)
 # RGeospatial
 
